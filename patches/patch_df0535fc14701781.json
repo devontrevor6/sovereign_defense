@@ -1,0 +1,7 @@
+{
+    "timestamp": "2026-10-30 22:40:27",
+    "target_category": "FORMAT_STRING_DISCLOSURE",
+    "signature_fingerprint": "df0535fc14701781",
+    "mitigation_action": "AUTOMATED_SOCKET_SANITIZATION_AND_BOUNDARY_DROP",
+    "status": "ACTIVE_DEFENSE_DEPLOYED"
+}

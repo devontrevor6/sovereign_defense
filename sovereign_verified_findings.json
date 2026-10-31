@@ -1,0 +1,85 @@
+{
+    "total_verified_discoveries": 8,
+    "strategy_pivots": 0,
+    "active_strategy": "init",
+    "vulnerabilities": {
+        "Socket Hang / Resource Exhaustion": {
+            "count": 8,
+            "severity": "MEDIUM",
+            "details": [
+                {
+                    "timestamp": "22:56:03",
+                    "target_device": "Moto G Play 2024 (127.0.0.1:9999)",
+                    "type": "Socket Hang / Resource Exhaustion",
+                    "severity": "MEDIUM",
+                    "payload_size": 12373,
+                    "signature": "Timeout under adaptive probe",
+                    "fingerprint": "33c6ac657037fe0e"
+                },
+                {
+                    "timestamp": "22:56:04",
+                    "target_device": "Moto G Play 2024 (127.0.0.1:9999)",
+                    "type": "Socket Hang / Resource Exhaustion",
+                    "severity": "MEDIUM",
+                    "payload_size": 5940,
+                    "signature": "Timeout under adaptive probe",
+                    "fingerprint": "49cbcfbfe9d5899a"
+                },
+                {
+                    "timestamp": "22:56:11",
+                    "target_device": "Moto G Play 2024 (127.0.0.1:9999)",
+                    "type": "Socket Hang / Resource Exhaustion",
+                    "severity": "MEDIUM",
+                    "payload_size": 13194,
+                    "signature": "Timeout under adaptive probe",
+                    "fingerprint": "58ff5811201ab5ff"
+                },
+                {
+                    "timestamp": "22:56:12",
+                    "target_device": "Moto G Play 2024 (127.0.0.1:9999)",
+                    "type": "Socket Hang / Resource Exhaustion",
+                    "severity": "MEDIUM",
+                    "payload_size": 4237,
+                    "signature": "Timeout under adaptive probe",
+                    "fingerprint": "335783dedc86d38e"
+                },
+                {
+                    "timestamp": "22:56:13",
+                    "target_device": "Moto G Play 2024 (127.0.0.1:9999)",
+                    "type": "Socket Hang / Resource Exhaustion",
+                    "severity": "MEDIUM",
+                    "payload_size": 6000,
+                    "signature": "Timeout under adaptive probe",
+                    "fingerprint": "b204c6a299836e9b"
+                },
+                {
+                    "timestamp": "22:56:14",
+                    "target_device": "Moto G Play 2024 (127.0.0.1:9999)",
+                    "type": "Socket Hang / Resource Exhaustion",
+                    "severity": "MEDIUM",
+                    "payload_size": 1588,
+                    "signature": "Timeout under adaptive probe",
+                    "fingerprint": "32a8086d33d94c5e"
+                },
+                {
+                    "timestamp": "22:56:16",
+                    "target_device": "Moto G Play 2024 (127.0.0.1:9999)",
+                    "type": "Socket Hang / Resource Exhaustion",
+                    "severity": "MEDIUM",
+                    "payload_size": 8257,
+                    "signature": "Timeout under adaptive probe",
+                    "fingerprint": "7969516caf9eadaa"
+                },
+                {
+                    "timestamp": "22:56:16",
+                    "target_device": "Moto G Play 2024 (127.0.0.1:9999)",
+                    "type": "Socket Hang / Resource Exhaustion",
+                    "severity": "MEDIUM",
+                    "payload_size": 13023,
+                    "signature": "Timeout under adaptive probe",
+                    "fingerprint": "896643bd2f46acc6"
+                }
+            ]
+        }
+    }
+}

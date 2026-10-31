@@ -1,0 +1,7 @@
+{
+    "timestamp": "2026-10-30 22:47:25",
+    "target_category": "HEAP_CORRUPTION / MEM_INJECT",
+    "signature_fingerprint": "c57b296e64ba09a4",
+    "mitigation_action": "AUTOMATED_SOCKET_SANITIZATION_AND_BOUNDARY_DROP",
+    "status": "ACTIVE_DEFENSE_DEPLOYED"
+}

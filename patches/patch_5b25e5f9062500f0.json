@@ -1,0 +1,7 @@
+{
+    "timestamp": "2026-10-30 22:38:04",
+    "target_category": "SOCKET_RESOURCE_ANOMALY",
+    "signature_fingerprint": "5b25e5f9062500f0",
+    "mitigation_action": "AUTOMATED_SOCKET_SANITIZATION_AND_BOUNDARY_DROP",
+    "status": "ACTIVE_DEFENSE_DEPLOYED"
+}
